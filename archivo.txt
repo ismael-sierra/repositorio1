@@ -1,1 +1,2 @@
 Esto es una línea de texto
+La línea de este fichero será diferente
